@@ -16,7 +16,7 @@ Step 3: check if java classes are cloned
 
 Step 4: compile the java clases
 
-	javac -cp . ./edu/vt/*.java
+	javac -cp . ./edu/vt/SortText.java
 
 
 Step 5: Run the java class and enter the text to be sorted
