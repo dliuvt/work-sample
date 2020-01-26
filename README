@@ -1,0 +1,31 @@
+
+How to run the program
+
+It is required that the system is installed with JDK 1.8 and git.
+
+Step 1: Clone the project
+	git clone https://github.com/dliuvt/work-sample.git
+
+Step 2: 
+	cd ./work-sample;
+
+Step 3: check if java classes are cloned
+
+	ls -l ./edu/vt/
+
+
+Step 4: compile the java clases
+
+	javac -cp . ./edu/vt/*.java
+
+
+
+Step 5: Run the java class and enter the text to be sorted
+
+	java -cp . edu.vt.SortTextFromScreen
+
+	There will be 1 output below:
+	1) no text entered
+	2) enter text without any letter
+	3) sorted string
+
