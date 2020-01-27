@@ -7,7 +7,7 @@ Step 1: Clone the project
 	git clone https://github.com/dliuvt/work-sample.git
 
 Step 2: move to the work-sample folder
-	cd ./work-sample;
+	cd ./work-sample
 
 Step 3: check if java classes are cloned
 
